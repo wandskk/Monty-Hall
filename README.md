@@ -1,34 +1,61 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="src/Images/logo-git.png" alt="Logo" width="100%">
+  </a>
 
-## Getting Started
+  <h3 align="center">Problemas das portas de Monty Hall</h3>
 
-First, run the development server:
+  <p align="center">
+    O problema de Monty Hall feito completamento com o framework NextJS, HTML e CSS!
+    <br />
+  </p>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
+<!-- ABOUT THE PROJECT -->
+## Sobre o projeto
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+### Construção do app
+
+Este projeto foi criando com:
+
+* [NextJS](https://nextjs.org/)
+* [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+
+
+<!-- GETTING STARTED -->
+## Iniciando o projeto
+1. Clone o repositório
+ ```sh
+   git clone https://github.com/wandskk/Monty-Hall.git
+ ```
+2. Vá até a pasta
+ ```sh
+   cd porta
+ ```
+3. Instale as dependências do projeto
+ ```sh
+   npm install or npm i
+ ```
+4. Execute o projeto
+```sh
+   npm start
+ ```
+5. Acesse o link
+ ```sh 
+    http://localhost:3000/
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<!-- VIDEO -->
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<!-- CONTACT -->
+## Contact
+Project Link: [https://github.com/wandskk/Monty-Hall.git](https://github.com/wandskk/Monty-Hall.git)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[product-screenshot]: src/Images/sistema.png
