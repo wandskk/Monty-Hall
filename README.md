@@ -58,4 +58,4 @@ Project Link: [https://github.com/wandskk/Monty-Hall.git](https://github.com/wan
 
 
 
-[product-screenshot]: src/Images/sistema.png
+[product-screenshot]: public/portas.png
