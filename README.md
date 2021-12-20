@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="src/Images/logo-git.png" alt="Logo" width="100%">
+    <img src="public/montyhall.png" alt="Logo" width="100%">
   </a>
 
   <h3 align="center">Problemas das portas de Monty Hall</h3>
