@@ -8,7 +8,7 @@
   <h3 align="center">Problemas das portas de Monty Hall</h3>
 
   <p align="center">
-    O problema de Monty Hall feito completamento com o framework NextJS, TypeScript HTML e CSS!
+    O problema de Monty Hall feito completamento com o framework NextJS, TypeScript, HTML e CSS!
     <br />
   </p>
 </p>
